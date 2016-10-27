@@ -1,0 +1,6 @@
+{"servers":[{"ipadress":"172.26.4.120","port":"80","servername":"varnish1"},
+{"ipadress":"172.26.4.116","port":"80","servername":"varnish2"},
+{"ipadress":"127.0.0.1","port":"80","servername":"varnish3"},
+{"ipadress":"127.0.0.1","port":"80","servername":"varnish4"},
+{"ipadress":"127.0.0.1","port":"80","servername":"varnish5"}
+]}
